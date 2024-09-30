@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Christiano",
+      "username": "Ronal",
+      "email": "Ronaldo@gmail.com",
+      "phone": "08037998228"
+    },
+    {
+      "id": "2",
+      "name": "Williams Christpher",
+      "username": "WilliamsCee",
+      "email": "williamscee@outlook.com",
+      "phone": "+234-7066-577-001"
+    },
+    {
+      "id": "3",
+      "name": "Smith",
+      "username": "Wilson",
+      "email": "Smith@yahoo.com",
+      "phone": "+234-910-994-534"
+    },
+    {
+      "id": "4",
+      "name": "Mary Peterson",
+      "username": "Peterson",
+      "email": "marypeterson@gmail.com",
+      "phone": "+234-5643-009-667"
+    },
+    {
+      "id": "c63c",
+      "name": "chile",
+      "username": "chilecode",
+      "email": "chile@gmail.com",
+      "phone": "08132507381"
+    }
+  ]
+}
